@@ -1,0 +1,15 @@
+step 1 - sabse phele jo rom aap use kar rahe h uski ko download kare
+downlod karne k baad us rom ya firmware ko extract kare jisse aapko kuch files milegi jisme 
+ek payload.bin naam ki file hogi aur ye important hai
+
+step 2 - python download karo latest version ka aur install karo
+
+step 3 - payload dumper ko donwload karo aur use home par extract karo
+jisse aapko 3 file milenge : input, .exe, output
+
+step 4 - input wale folder ko open karo aur usme payload.bin file ko daaldo
+
+step 5 - fir exe file ko open karo fir payload.bin filo ko ye automatically extract karega 1 minute 
+ka wait karo 
+
+last step - output folder open karo aur aapko boot.img file mil jayegi
