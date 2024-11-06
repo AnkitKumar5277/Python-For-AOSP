@@ -1,0 +1,17 @@
+REVANCED OPEN SOURCE STEP BY STEP GUIDE
+
+STEP 1
+check your system architechture like v7a or v8a
+
+STEP 2
+install micro og apk for signining you google account https://github.com/ReVanced/GmsCore/releases
+
+STEP 3
+install revanced main apk for youtube alternative https://github.com/j-hc/revanced-magisk-module/releases/tag/20220968
+
+STEP 4
+open revanced app and select you google account
+now enjoy add free experience youtube 
+
+DISADVANTAGE !
+you can't upload youtube videos, posts
